@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="P2PAudioChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/P2PAudioChat_jar</output-path>
+    <root id="archive" name="P2PAudioChat.jar">
+      <element id="module-output" name="P2PAudioChat" />
+    </root>
+  </artifact>
+</component>
